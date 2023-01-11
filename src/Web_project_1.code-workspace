@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../Web_project_1"
+		},
+		{
+			"path": "../../Web_project_2_DZ"
+		},
+		{
+			"path": "../../Урок_17/project"
+		},
+		{
+			"path": "../../Урок_18_реальный проект/Project_real"
+		},
+		{
+			"path": "../../Bootstrap"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Uber_project_1"
+	}
+}
